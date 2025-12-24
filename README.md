@@ -21,7 +21,7 @@
 <p align="center">
   <img src="assets/screenshots/chat_screen.png" width="30%" alt="Окно чата" />
   <img src="assets/screenshots/logs_screen.png" width="30%" alt="Логи" />
-  <img src="assets/screenshots/analytics.png" width="30%" alt="Аналитика" />
+  <img src="assets/screenshots/analytics_screen.png" width="30%" alt="Аналитика" />
 </p> <br>
 
 ---
