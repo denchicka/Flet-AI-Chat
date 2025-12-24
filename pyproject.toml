@@ -1,0 +1,17 @@
+[project]
+name = "aichat"
+version = "1.0.0"
+dependencies = [
+  "flet",
+  "requests",
+  "python-dotenv",
+  "aiogram",
+  "aiohttp"
+]
+
+[tool.flet]
+org = "com.mycompany"
+product = "AIChat"
+
+[tool.flet.app]
+path = "src"
